@@ -1,4 +1,6 @@
-# aerial_robotics
+# CS491 Aerial Robotics Final Project
+Instructor: Christos Papachristos  
+Team Members: Edward Martinez Anaya, Jairo <unknown>, James Kolby, Braden Turner, Owen Ingram  
 
 ## Install requirements
 ```
